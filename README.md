@@ -1,3 +1,4 @@
+**Note: There is a newer version
 # chatbot
 Chatbot is a simple bot build using java,it takes the source from a file so be sure to modify the file path in MyBot class.
 the file should be in the format of Questions,answers.
